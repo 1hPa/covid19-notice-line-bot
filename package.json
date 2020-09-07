@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/1hPa/covid19-notice-line-bot/issues"
   },
-  "homepage": "https://github.com/1hPa/covid19-notice-line-bot#readme"
+  "homepage": "https://github.com/1hPa/covid19-notice-line-bot#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.0.0",
+    "express": "^4.17.1"
+  }
 }
