@@ -1,0 +1,19 @@
+{
+  "name": "covid19-notice-line-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1hPa/covid19-notice-line-bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1hPa/covid19-notice-line-bot/issues"
+  },
+  "homepage": "https://github.com/1hPa/covid19-notice-line-bot#readme"
+}
