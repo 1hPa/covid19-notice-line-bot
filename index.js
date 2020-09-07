@@ -10,3 +10,9 @@ const line_config = {
 
 // web server settings
 server.listen(process.env.PORT || 3000);
+
+// router settings
+server.post('/bot/webhook', line.middleware(line_config), (req, res, next) => {
+    res.sendStatus(200);
+    console.log(req.body);
+});
